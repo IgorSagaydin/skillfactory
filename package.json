@@ -1,0 +1,22 @@
+{
+  "name": "node_example",
+  "version": "1.0.0",
+  "description": "first_node",
+  "main": "node_example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorSagaydin/skillfactory.git"
+  },
+  "author": "Sagaydin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorSagaydin/skillfactory/issues"
+  },
+  "homepage": "https://github.com/IgorSagaydin/skillfactory#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
